@@ -5,7 +5,8 @@
 - 💻 Working as a Frontend Developer Intern at Uniser Group
 - 🎓 BEU (Computer Engineering) — Class of 2026, GPA: 91.92, Admission Score: 643
 - 📚 Studying Full-Stack Development at Div Academy through the "Gələcəyi Yazanlar" scholarship program (60% scholarship)
-- 🌱 Currently learning Node.js and backend development
+- 🌱 Currently expanding into backend development with Node.js, Express.js, Prisma and PostgreSQL
+- ⚙️ Building REST APIs with TypeScript, Express and PostgreSQL
 - 🎯 Goal: Always learning new technologies and continuously pushing myself to reach the highest level as a developer
 
 ---
@@ -17,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -30,10 +32,19 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![AntDesign](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-**Backend & Database**
+**Backend**
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+**Database**
+
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -44,8 +55,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Restfox](https://img.shields.io/badge/Restfox-FF6C37?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Restfox](https://img.shields.io/badge/Restfox-FF6C37?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
