@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 Working as a Frontend Developer Intern at Uniser Group
+- 💻 Working as a Frontend Developer 
 - 🎓 BEU (Computer Engineering) — Class of 2026, GPA: 91.92, Admission Score: 643
 - 📚 Studying Full-Stack Development at Div Academy through the "Gələcəyi Yazanlar" scholarship program (60% scholarship)
 - 🌱 Expanding into backend development with Node.js, Express.js, Prisma and PostgreSQL
